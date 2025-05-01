@@ -5,7 +5,7 @@ site_description: >-
   in the chemical sciences.
 site_author: "Filip T. Szczypiński"
 site_url: "https://szczypinski-group.github.io"
-# repo_url: "https://github.com/szczypinski-group"
+# repo_url: "https://github.com/szczypinski-group/szczypinski-group.github.io/"
 # repo_name: "szczypinski-group"
 site_dir: "site"
 copyright: Copyright &copy; 2025 Szczypiński Research Group
