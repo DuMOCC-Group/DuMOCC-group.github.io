@@ -10,7 +10,7 @@ We are interested in both *function* (molecular recognition, catalysis) and *pro
 A core strength of the group is the integration of **automation and HTE** into supramolecular and physical organic chemistry.
 We build and use custom workflows for automated synthesis and analysis, particularly for:
 
-- **Dynamic library generation and screening**, using robotic platforms (e.g., ChemSpeed) and rapid characterisation methods (NMR, LC-MS, UPLC) to probe product distributions and binding.
+- **Dynamic library generation and screening**, using robotic platforms and advanced characterisation methods (e.g., NMR and LC-MS) to probe product distributions and binding.
 - **Mechanistic studies of complex reactions**, especially in systems with multiple equilibria or encapsulated intermediates, where standard kinetic experiments would be impractically slow.
 - **Autonomous data collection and interpretation**, using custom code for automated data analysis and closed-loop automation.
 
