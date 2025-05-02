@@ -3,8 +3,10 @@
 ## Principal Investigator
 
 <div class="member-card" markdown>
-![Filip Szczypiński](assets/FS.jpg){ .member-photo }
+
+![Filip Szczypiński](../assets/people/FS.jpg){ .member-photo }
 ### Dr Filip Szczypiński [:fontawesome-brands-orcid:](https://orcid.org/0000-0003-3174-8532) [:fontawesome-solid-graduation-cap:](https://scholar.google.co.uk/citations?user=DJLqVIEAAAAJ)
+
 *Royal Society University Research Fellow (2025 – now)*  <br />
 *Assistant Professor of Chemistry Automation (proleptic)*
 
@@ -24,7 +26,9 @@ He has been seen organising tasting sessions, giving talks on wine chemistry, an
 ## Masters students
 
 <div class="member-card" markdown>
-![Guiling Wei](assets/GW.jpg){ .member-photo }
+
+![Guiling Wei](../assets/people/GW.jpg){ .member-photo }
+
 ### Guiling Wei
 *Master of Data Science Student (2025)*
 
@@ -34,9 +38,11 @@ Guiling completed her undergraduate studies at Tianjin Foreign Studies Universit
 ## PhD students
 
 <div class="member-card" markdown>
-<img src="assets/smiley.jpg" alt="Smiley Face" class="member-photo circle">
+
+![Smiley Face](../assets/people/smiley.jpg){ .member-photo }
+
 ### This Could Be You
-*PhD Student (soon – now)*
+*PhD Student (now – soon)*
 
 Get in touch if you are excited about data-driven discovery in chemistry!
 </div>

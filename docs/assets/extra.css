@@ -33,11 +33,46 @@
     border-color: var(--md-primary-fg-color--light);
 }
 
-/* Responsive: Stack photos on small screens */
+.funder-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: center;
+    gap: 2em;
+}
+
+.funder-logos img {
+    max-height: 150px;
+    max-width: 200px;
+    object-fit: contain;
+    filter: grayscale(10%);
+    display: block;
+    transition: filter 0.2s, transform 0.2s;
+    background: #fff;
+    border-radius: 8px;
+
+}
+
+.funder-logos img:hover,
+.funder-logos img:focus {
+    filter: none;
+    transform: scale(1.05);
+    box-shadow: 0 4px 16px rgba(104, 37, 109, 0.12);
+}
+
 @media (max-width: 600px) {
     .member-photo {
         float: none;
         display: block;
         margin: 0 auto 0.5rem auto;
+    }
+
+    .funder-logos {
+        gap: 1rem;
+    }
+
+    .funder-logos img {
+        max-height: 90px;
+        max-width: 150px;
     }
 }

@@ -7,7 +7,7 @@ hide:
 
 ### Using automation, computation, and data to shift supramolecular chemistry **from discovery to design**.
 
-We are a young research group at [Durham University](https://www.durham.ac.uk/departments/academic/chemistry/) working at the interface of **supramolecular chemistry**, **automation**, and **data-driven molecular design**.
+We are a young research group at <a href="https://www.durham.ac.uk/departments/academic/chemistry/" target="_blank" rel="noopener">Durham University</a> working at the interface of **supramolecular chemistry**, **automation**, and **data-driven molecular design**.
 Our mission is to bridge **computational modelling** and **robotic experimentation** to accelerate the creation of functional molecular systems — from molecular cages and receptors to responsive materials and catalysts.
 
 !!! tip "From Molecular Design to Real-World Impact 🔬"
@@ -30,4 +30,11 @@ This integrated approach transforms supramolecular chemistry from a trial-and-er
 
 #### We are grateful to our funders!
 
-<img src="assets/RS.jpg" alt="The Royal Society" width="100"/>
+<div class="funder-logos">
+  <a href="https://royalsociety.org/" target="_blank" rel="noopener">
+    <img src="assets/funders/RS.jpg" alt="Royal Society" />
+  </a>
+  <a href="https://www.durham.ac.uk/" target="_blank" rel="noopener">
+    <img src="assets/funders/DU.png" alt="Durham University" />
+  </a>
+</div>
