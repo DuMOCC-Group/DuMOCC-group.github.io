@@ -1,21 +1,6 @@
 # Opportunities
 
-We welcome applicants with backgrounds in:
-
-- supramolecular chemistry
-- physical organic chemistry
-- computational or data-driven chemistry
-- robotic or high-throughput automation
-- coding and artificial intelligence
-
-There is room for **experimentalists, theorists, and hybrid researchers** – and we are especially keen to support cross-disciplinary training. If you’re interested, please [get in touch](mailto:filip.t.szczypinski@durham.ac.uk).
-
 ## Postdoctoral fellowships
-
-Grant-funded postdoctoral fellowships will be advertised online when available.
-Filip is also very happy to support applicants for external individual fellowships.
-Please [get in touch](mailto:filip.t.szczypinski@durham.ac.uk) with a CV and a cover letter as soon as possible to discuss those further.
-Some fellowships opportunities are collated here but the landscape is constantly changing so there might be more options available that better suit your background and interests.
 
 - [Career Development Fellowship](https://royalsociety.org/grants/career-development-fellowship/) for researchers from a Black heritage, including mixed Black background.
 - [Daphne Jackson Fellowship](https://daphnejackson.org/) for those returning after a career break.
@@ -29,11 +14,9 @@ Some fellowships opportunities are collated here but the landscape is constantly
 ## PhD studentships
 
 Externally-funded PhD positions will be advertised online.
-There might are also exist other funding sources: [get in touch](mailto:filip.t.szczypinski@durham.ac.uk) with Filip to discuss the available options.
 
 ## Undergraduate summer internships
 
 There is a limited number of paid undergraduate research opportunity programmes for summer studentships.
-Please [get in touch](mailto:filip.t.szczypinski@durham.ac.uk) substantially ahead of the deadlines to draft the best application possible.
 
 - [RSC Undergraduate Research Bursary](https://www.rsc.org/prizes-funding/funding/find-funding/undergraduate-research-bursaries/)
