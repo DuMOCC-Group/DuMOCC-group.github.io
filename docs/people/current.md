@@ -4,7 +4,7 @@
 
 <div class="member-card" markdown>
   
-![Aurora Cruz-Cabeza](../assets/people/smiley.jpg){ .member-photo }
+![Aurora Cruz-Cabeza](https://apps.dur.ac.uk/biography/image/860){ .member-photo }
 ### Prof. Aurora Cruz-Cabeza [:fontawesome-brands-orcid:](https://orcid.org/) [:fontawesome-solid-graduation-cap:](https://scholar.google.co.uk/)
 
 </div>
