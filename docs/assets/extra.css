@@ -27,12 +27,6 @@
     transition: box-shadow 0.2s;
 }
 
-.member-photo:hover,
-.member-photo:focus {
-    box-shadow: 0 4px 16px rgba(104, 37, 109, 0.25);
-    border-color: var(--md-primary-fg-color--light);
-}
-
 .funder-logos {
     display: flex;
     flex-wrap: wrap;
